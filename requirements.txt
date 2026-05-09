@@ -1,0 +1,4 @@
+flask
+flasgger
+groq
+python-dotenv
